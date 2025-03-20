@@ -7,4 +7,5 @@ def farewell():
 
 def chat():
     print("como estas?")
+    print("How is the weather today?")
     print("How are you?")
